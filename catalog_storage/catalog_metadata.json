@@ -1,0 +1,1960 @@
+{
+  "version": "2.0",
+  "last_saved": "2026-10-16T04:04:03.981471+00:00",
+  "entries_count": 13,
+  "entries": [
+    {
+      "id": "68ed528c",
+      "name": "apple",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\apple_68ed528c.png",
+      "width": 600,
+      "height": 600,
+      "category": "photographic",
+      "status": "manually_edited",
+      "has_manual_corrections": true,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:31.628218+00:00",
+      "updated_at": "2026-10-15T15:31:32.361705+00:00",
+      "objects_count": 2,
+      "objects": [
+        {
+          "id": "2e9dd017",
+          "label": "apple",
+          "display_name": "Apple",
+          "bbox": {
+            "x": 179,
+            "y": 159,
+            "width": 243,
+            "height": 313,
+            "x2": 422,
+            "y2": 472
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "red",
+            "primary_hex": "#d21919",
+            "primary_rgb": [
+              210,
+              25,
+              25
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "apple",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 179,
+              "y": 159,
+              "width": 243,
+              "height": 313,
+              "x2": 422,
+              "y2": 472
+            },
+            "detected_at": "2026-10-15T15:31:31.686061+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\apple_179_159.png"
+        },
+        {
+          "id": "92706f11",
+          "label": "apple_leaf",
+          "display_name": "Apple Leaf & Stem",
+          "bbox": {
+            "x": 285,
+            "y": 105,
+            "width": 85,
+            "height": 40,
+            "x2": 370,
+            "y2": 145
+          },
+          "confidence": 1.0,
+          "color": {
+            "primary_name": "green",
+            "primary_hex": "#16a34a",
+            "primary_rgb": [
+              22,
+              163,
+              74
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "user_manual",
+          "auto_metadata": null,
+          "user_metadata": {
+            "is_modified": true,
+            "modified_by": "expert_curator",
+            "modified_at": "2026-10-15T15:31:32.361705+00:00",
+            "notes": "High-value foliage detail missed by fruit detector",
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\manual_apple_leaf_285_105.png"
+        }
+      ]
+    },
+    {
+      "id": "463fd640",
+      "name": "orange",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\orange_463fd640.png",
+      "width": 600,
+      "height": 600,
+      "category": "photographic",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:31.755561+00:00",
+      "updated_at": "2026-10-15T15:31:31.795079+00:00",
+      "objects_count": 1,
+      "objects": [
+        {
+          "id": "ee4ae5c2",
+          "label": "orange",
+          "display_name": "Orange",
+          "bbox": {
+            "x": 174,
+            "y": 134,
+            "width": 253,
+            "height": 318,
+            "x2": 427,
+            "y2": 452
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "orange",
+            "primary_hex": "#f97316",
+            "primary_rgb": [
+              249,
+              115,
+              22
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "orange",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 174,
+              "y": 134,
+              "width": 253,
+              "height": 318,
+              "x2": 427,
+              "y2": 452
+            },
+            "detected_at": "2026-10-15T15:31:31.794081+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\orange_174_134.png"
+        }
+      ]
+    },
+    {
+      "id": "8c65750c",
+      "name": "boy",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\boy_8c65750c.png",
+      "width": 500,
+      "height": 700,
+      "category": "cartoon",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:31.834079+00:00",
+      "updated_at": "2026-10-15T15:31:32.507995+00:00",
+      "objects_count": 1,
+      "objects": [
+        {
+          "id": "786b254a",
+          "label": "boy",
+          "display_name": "Boy",
+          "bbox": {
+            "x": 145,
+            "y": 80,
+            "width": 211,
+            "height": 501,
+            "x2": 356,
+            "y2": 581
+          },
+          "confidence": 0.96,
+          "color": {
+            "primary_name": "blue/khaki",
+            "primary_hex": "#2563eb",
+            "primary_rgb": [
+              60,
+              99,
+              180
+            ],
+            "secondary_colors": [
+              "blue",
+              "khaki"
+            ],
+            "clothing_colors": {
+              "top": "blue (#2563eb)",
+              "bottom": "khaki (#b49664)"
+            }
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "cartoon_figure_clothing_analyzer",
+            "model_version": "v2.4",
+            "raw_label": "boy",
+            "raw_confidence": 0.96,
+            "raw_bbox": {
+              "x": 145,
+              "y": 80,
+              "width": 211,
+              "height": 501,
+              "x2": 356,
+              "y2": 581
+            },
+            "detected_at": "2026-10-15T15:31:32.506993+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\boy_145_80.png"
+        }
+      ]
+    },
+    {
+      "id": "f7107930",
+      "name": "girl",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\girl_f7107930.png",
+      "width": 500,
+      "height": 700,
+      "category": "cartoon",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:31.915641+00:00",
+      "updated_at": "2026-10-16T04:03:15.089165+00:00",
+      "objects_count": 1,
+      "objects": [
+        {
+          "id": "8cbf6ad6",
+          "label": "girl",
+          "display_name": "Girl",
+          "bbox": {
+            "x": 160,
+            "y": 80,
+            "width": 181,
+            "height": 496,
+            "x2": 341,
+            "y2": 576
+          },
+          "confidence": 0.96,
+          "color": {
+            "primary_name": "pink/purple",
+            "primary_hex": "#ec48b4",
+            "primary_rgb": [
+              236,
+              72,
+              180
+            ],
+            "secondary_colors": [
+              "pink",
+              "purple"
+            ],
+            "clothing_colors": {
+              "top": "pink (#ec48b4)",
+              "bottom": "purple (#9333ea)"
+            }
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "cartoon_figure_clothing_analyzer",
+            "model_version": "v2.4",
+            "raw_label": "girl",
+            "raw_confidence": 0.96,
+            "raw_bbox": {
+              "x": 160,
+              "y": 80,
+              "width": 181,
+              "height": 496,
+              "x2": 341,
+              "y2": 576
+            },
+            "detected_at": "2026-10-16T04:03:15.088123+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\girl_160_80.png"
+        }
+      ]
+    },
+    {
+      "id": "e0ceca11",
+      "name": "shapes",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\shapes_e0ceca11.png",
+      "width": 900,
+      "height": 450,
+      "category": "synthetic_shapes",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:31.974165+00:00",
+      "updated_at": "2026-10-15T15:31:32.036164+00:00",
+      "objects_count": 4,
+      "objects": [
+        {
+          "id": "e67ffbe5",
+          "label": "triangle",
+          "display_name": "Triangle",
+          "bbox": {
+            "x": 472,
+            "y": 124,
+            "width": 157,
+            "height": 167,
+            "x2": 629,
+            "y2": 291
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "red",
+            "primary_hex": "#dc2626",
+            "primary_rgb": [
+              220,
+              38,
+              38
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "overlapping_edge_color_segmenter",
+            "model_version": "v2.4",
+            "raw_label": "triangle",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 472,
+              "y": 124,
+              "width": 157,
+              "height": 167,
+              "x2": 629,
+              "y2": 291
+            },
+            "detected_at": "2026-10-15T15:31:32.013159+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\triangle_472_124.png"
+        },
+        {
+          "id": "4f1efad0",
+          "label": "circle",
+          "display_name": "Circle",
+          "bbox": {
+            "x": 70,
+            "y": 130,
+            "width": 161,
+            "height": 161,
+            "x2": 231,
+            "y2": 291
+          },
+          "confidence": 0.8994,
+          "color": {
+            "primary_name": "blue",
+            "primary_hex": "#2563eb",
+            "primary_rgb": [
+              37,
+              99,
+              235
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "overlapping_edge_color_segmenter",
+            "model_version": "v2.4",
+            "raw_label": "circle",
+            "raw_confidence": 0.8993610704775418,
+            "raw_bbox": {
+              "x": 70,
+              "y": 130,
+              "width": 161,
+              "height": 161,
+              "x2": 231,
+              "y2": 291
+            },
+            "detected_at": "2026-10-15T15:31:32.022175+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\circle_70_130.png"
+        },
+        {
+          "id": "00db21bd",
+          "label": "square",
+          "display_name": "Square",
+          "bbox": {
+            "x": 270,
+            "y": 130,
+            "width": 161,
+            "height": 161,
+            "x2": 431,
+            "y2": 291
+          },
+          "confidence": 0.94,
+          "color": {
+            "primary_name": "green",
+            "primary_hex": "#16a34a",
+            "primary_rgb": [
+              22,
+              163,
+              74
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "overlapping_edge_color_segmenter",
+            "model_version": "v2.4",
+            "raw_label": "square",
+            "raw_confidence": 0.94,
+            "raw_bbox": {
+              "x": 270,
+              "y": 130,
+              "width": 161,
+              "height": 161,
+              "x2": 431,
+              "y2": 291
+            },
+            "detected_at": "2026-10-15T15:31:32.028161+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\square_270_130.png"
+        },
+        {
+          "id": "ad1b831e",
+          "label": "rectangle",
+          "display_name": "Rectangle",
+          "bbox": {
+            "x": 670,
+            "y": 160,
+            "width": 181,
+            "height": 101,
+            "x2": 851,
+            "y2": 261
+          },
+          "confidence": 0.93,
+          "color": {
+            "primary_name": "yellow",
+            "primary_hex": "#eab308",
+            "primary_rgb": [
+              234,
+              179,
+              8
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "overlapping_edge_color_segmenter",
+            "model_version": "v2.4",
+            "raw_label": "rectangle",
+            "raw_confidence": 0.93,
+            "raw_bbox": {
+              "x": 670,
+              "y": 160,
+              "width": 181,
+              "height": 101,
+              "x2": 851,
+              "y2": 261
+            },
+            "detected_at": "2026-10-15T15:31:32.035159+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\rectangle_670_160.png"
+        }
+      ]
+    },
+    {
+      "id": "403e72a0",
+      "name": "colors",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\colors_403e72a0.png",
+      "width": 1000,
+      "height": 380,
+      "category": "color_swatches",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:32.074706+00:00",
+      "updated_at": "2026-10-15T15:31:32.111706+00:00",
+      "objects_count": 5,
+      "objects": [
+        {
+          "id": "992ce6c1",
+          "label": "red_swatch",
+          "display_name": "Red Swatch",
+          "bbox": {
+            "x": 55,
+            "y": 80,
+            "width": 141,
+            "height": 221,
+            "x2": 196,
+            "y2": 301
+          },
+          "confidence": 0.99,
+          "color": {
+            "primary_name": "red",
+            "primary_hex": "#dc2626",
+            "primary_rgb": [
+              220,
+              38,
+              38
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "color_swatch_extractor",
+            "model_version": "v2.4",
+            "raw_label": "red_swatch",
+            "raw_confidence": 0.99,
+            "raw_bbox": {
+              "x": 55,
+              "y": 80,
+              "width": 141,
+              "height": 221,
+              "x2": 196,
+              "y2": 301
+            },
+            "detected_at": "2026-10-15T15:31:32.088703+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\red_swatch_55_80.png"
+        },
+        {
+          "id": "e3c7bb11",
+          "label": "blue_swatch",
+          "display_name": "Blue Swatch",
+          "bbox": {
+            "x": 240,
+            "y": 80,
+            "width": 141,
+            "height": 221,
+            "x2": 381,
+            "y2": 301
+          },
+          "confidence": 0.99,
+          "color": {
+            "primary_name": "blue",
+            "primary_hex": "#2563eb",
+            "primary_rgb": [
+              37,
+              99,
+              235
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "color_swatch_extractor",
+            "model_version": "v2.4",
+            "raw_label": "blue_swatch",
+            "raw_confidence": 0.99,
+            "raw_bbox": {
+              "x": 240,
+              "y": 80,
+              "width": 141,
+              "height": 221,
+              "x2": 381,
+              "y2": 301
+            },
+            "detected_at": "2026-10-15T15:31:32.092708+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\blue_swatch_240_80.png"
+        },
+        {
+          "id": "b9df4d35",
+          "label": "green_swatch",
+          "display_name": "Green Swatch",
+          "bbox": {
+            "x": 425,
+            "y": 80,
+            "width": 141,
+            "height": 221,
+            "x2": 566,
+            "y2": 301
+          },
+          "confidence": 0.99,
+          "color": {
+            "primary_name": "green",
+            "primary_hex": "#16a34a",
+            "primary_rgb": [
+              22,
+              163,
+              74
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "color_swatch_extractor",
+            "model_version": "v2.4",
+            "raw_label": "green_swatch",
+            "raw_confidence": 0.99,
+            "raw_bbox": {
+              "x": 425,
+              "y": 80,
+              "width": 141,
+              "height": 221,
+              "x2": 566,
+              "y2": 301
+            },
+            "detected_at": "2026-10-15T15:31:32.099727+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\green_swatch_425_80.png"
+        },
+        {
+          "id": "667221e0",
+          "label": "yellow_swatch",
+          "display_name": "Yellow Swatch",
+          "bbox": {
+            "x": 610,
+            "y": 80,
+            "width": 141,
+            "height": 221,
+            "x2": 751,
+            "y2": 301
+          },
+          "confidence": 0.99,
+          "color": {
+            "primary_name": "yellow",
+            "primary_hex": "#eab308",
+            "primary_rgb": [
+              234,
+              179,
+              8
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "color_swatch_extractor",
+            "model_version": "v2.4",
+            "raw_label": "yellow_swatch",
+            "raw_confidence": 0.99,
+            "raw_bbox": {
+              "x": 610,
+              "y": 80,
+              "width": 141,
+              "height": 221,
+              "x2": 751,
+              "y2": 301
+            },
+            "detected_at": "2026-10-15T15:31:32.105721+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\yellow_swatch_610_80.png"
+        },
+        {
+          "id": "55122e1f",
+          "label": "purple_swatch",
+          "display_name": "Purple Swatch",
+          "bbox": {
+            "x": 795,
+            "y": 80,
+            "width": 141,
+            "height": 221,
+            "x2": 936,
+            "y2": 301
+          },
+          "confidence": 0.99,
+          "color": {
+            "primary_name": "purple",
+            "primary_hex": "#9333ea",
+            "primary_rgb": [
+              147,
+              51,
+              234
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "color_swatch_extractor",
+            "model_version": "v2.4",
+            "raw_label": "purple_swatch",
+            "raw_confidence": 0.99,
+            "raw_bbox": {
+              "x": 795,
+              "y": 80,
+              "width": 141,
+              "height": 221,
+              "x2": 936,
+              "y2": 301
+            },
+            "detected_at": "2026-10-15T15:31:32.110709+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\purple_swatch_795_80.png"
+        }
+      ]
+    },
+    {
+      "id": "701ad4ed",
+      "name": "apple_orange",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\apple_orange_701ad4ed.png",
+      "width": 800,
+      "height": 500,
+      "category": "photographic",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:32.150711+00:00",
+      "updated_at": "2026-10-15T15:31:32.184493+00:00",
+      "objects_count": 2,
+      "objects": [
+        {
+          "id": "c1ded044",
+          "label": "apple",
+          "display_name": "Apple",
+          "bbox": {
+            "x": 149,
+            "y": 169,
+            "width": 203,
+            "height": 243,
+            "x2": 352,
+            "y2": 412
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "red",
+            "primary_hex": "#c81919",
+            "primary_rgb": [
+              200,
+              25,
+              25
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "apple",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 149,
+              "y": 169,
+              "width": 203,
+              "height": 243,
+              "x2": 352,
+              "y2": 412
+            },
+            "detected_at": "2026-10-15T15:31:32.176464+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\apple_149_169.png"
+        },
+        {
+          "id": "a01a98f8",
+          "label": "orange",
+          "display_name": "Orange",
+          "bbox": {
+            "x": 439,
+            "y": 164,
+            "width": 223,
+            "height": 238,
+            "x2": 662,
+            "y2": 402
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "orange",
+            "primary_hex": "#f97316",
+            "primary_rgb": [
+              249,
+              115,
+              22
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "orange",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 439,
+              "y": 164,
+              "width": 223,
+              "height": 238,
+              "x2": 662,
+              "y2": 402
+            },
+            "detected_at": "2026-10-15T15:31:32.183852+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\orange_439_164.png"
+        }
+      ]
+    },
+    {
+      "id": "f6cb37f7",
+      "name": "overlapping_shapes",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\overlapping_shapes_f6cb37f7.png",
+      "width": 750,
+      "height": 500,
+      "category": "synthetic_shapes",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:32.223398+00:00",
+      "updated_at": "2026-10-15T15:31:32.261156+00:00",
+      "objects_count": 3,
+      "objects": [
+        {
+          "id": "ce812880",
+          "label": "triangle",
+          "display_name": "Triangle",
+          "bbox": {
+            "x": 392,
+            "y": 104,
+            "width": 217,
+            "height": 217,
+            "x2": 609,
+            "y2": 321
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "yellow",
+            "primary_hex": "#eab308",
+            "primary_rgb": [
+              234,
+              179,
+              8
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "overlapping_edge_color_segmenter",
+            "model_version": "v2.4",
+            "raw_label": "triangle",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 392,
+              "y": 104,
+              "width": 217,
+              "height": 217,
+              "x2": 609,
+              "y2": 321
+            },
+            "detected_at": "2026-10-15T15:31:32.246079+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\triangle_392_104.png"
+        },
+        {
+          "id": "95ebef15",
+          "label": "polygon",
+          "display_name": "Polygon",
+          "bbox": {
+            "x": 150,
+            "y": 140,
+            "width": 191,
+            "height": 221,
+            "x2": 341,
+            "y2": 361
+          },
+          "confidence": 0.8,
+          "color": {
+            "primary_name": "sky_blue",
+            "primary_hex": "#0ea5e9",
+            "primary_rgb": [
+              14,
+              165,
+              233
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "overlapping_edge_color_segmenter",
+            "model_version": "v2.4",
+            "raw_label": "polygon",
+            "raw_confidence": 0.8,
+            "raw_bbox": {
+              "x": 150,
+              "y": 140,
+              "width": 191,
+              "height": 221,
+              "x2": 341,
+              "y2": 361
+            },
+            "detected_at": "2026-10-15T15:31:32.253090+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\polygon_150_140.png"
+        },
+        {
+          "id": "37a02206",
+          "label": "polygon",
+          "display_name": "Polygon",
+          "bbox": {
+            "x": 279,
+            "y": 179,
+            "width": 202,
+            "height": 202,
+            "x2": 481,
+            "y2": 381
+          },
+          "confidence": 0.8,
+          "color": {
+            "primary_name": "purple",
+            "primary_hex": "#9333ea",
+            "primary_rgb": [
+              147,
+              51,
+              234
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "overlapping_edge_color_segmenter",
+            "model_version": "v2.4",
+            "raw_label": "polygon",
+            "raw_confidence": 0.8,
+            "raw_bbox": {
+              "x": 279,
+              "y": 179,
+              "width": 202,
+              "height": 202,
+              "x2": 481,
+              "y2": 381
+            },
+            "detected_at": "2026-10-15T15:31:32.259611+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\polygon_279_179.png"
+        }
+      ]
+    },
+    {
+      "id": "c1d566c8",
+      "name": "empty",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\empty_c1d566c8.png",
+      "width": 600,
+      "height": 600,
+      "category": "empty",
+      "status": "failed_no_objects",
+      "has_manual_corrections": false,
+      "is_composite": false,
+      "composite_metadata": null,
+      "created_at": "2026-10-15T15:31:32.301539+00:00",
+      "updated_at": "2026-10-15T15:31:32.307533+00:00",
+      "objects_count": 0,
+      "objects": []
+    },
+    {
+      "id": "5e3e0c5b",
+      "name": "composite_apple_and_orange",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\composite_apple_and_orange_5e3e0c5b.png",
+      "width": 900,
+      "height": 600,
+      "category": "composite",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": true,
+      "composite_metadata": {
+        "prompt": "Create an image containing one red apple and one orange",
+        "source_assets": [
+          {
+            "catalog_entry_id": "68ed528c",
+            "catalog_image_name": "apple",
+            "object_id": "2e9dd017",
+            "object_label": "apple",
+            "applied_scale": 0.431,
+            "placement_bbox": {
+              "x": 206,
+              "y": 333,
+              "width": 105,
+              "height": 135,
+              "x2": 311,
+              "y2": 468
+            },
+            "z_index": 3
+          },
+          {
+            "catalog_entry_id": "463fd640",
+            "catalog_image_name": "orange",
+            "object_id": "ee4ae5c2",
+            "object_label": "orange",
+            "applied_scale": 0.425,
+            "placement_bbox": {
+              "x": 587,
+              "y": 333,
+              "width": 107,
+              "height": 135,
+              "x2": 694,
+              "y2": 468
+            },
+            "z_index": 3
+          }
+        ],
+        "canvas_dimensions": [
+          900,
+          600
+        ],
+        "composition_strategy": "natural_language_spatial_alignment",
+        "generated_at": "2026-10-15T15:31:32.618766+00:00"
+      },
+      "created_at": "2026-10-15T15:31:32.621768+00:00",
+      "updated_at": "2026-10-15T15:31:32.677588+00:00",
+      "objects_count": 3,
+      "objects": [
+        {
+          "id": "245adae7",
+          "label": "apple",
+          "display_name": "Apple",
+          "bbox": {
+            "x": 205,
+            "y": 332,
+            "width": 107,
+            "height": 137,
+            "x2": 312,
+            "y2": 469
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "red",
+            "primary_hex": "#d21919",
+            "primary_rgb": [
+              210,
+              25,
+              25
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "apple",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 205,
+              "y": 332,
+              "width": 107,
+              "height": 137,
+              "x2": 312,
+              "y2": 469
+            },
+            "detected_at": "2026-10-15T15:31:32.660076+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\apple_205_332.png"
+        },
+        {
+          "id": "da8660d2",
+          "label": "orange",
+          "display_name": "Orange",
+          "bbox": {
+            "x": 586,
+            "y": 338,
+            "width": 109,
+            "height": 131,
+            "x2": 695,
+            "y2": 469
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "orange",
+            "primary_hex": "#f97316",
+            "primary_rgb": [
+              249,
+              115,
+              22
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "orange",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 586,
+              "y": 338,
+              "width": 109,
+              "height": 131,
+              "x2": 695,
+              "y2": 469
+            },
+            "detected_at": "2026-10-15T15:31:32.667456+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\orange_586_338.png"
+        },
+        {
+          "id": "6f652bd3",
+          "label": "object",
+          "display_name": "Object",
+          "bbox": {
+            "x": 0,
+            "y": 549,
+            "width": 900,
+            "height": 51,
+            "x2": 900,
+            "y2": 600
+          },
+          "confidence": 0.88,
+          "color": {
+            "primary_name": "white",
+            "primary_hex": "#f1f1f3",
+            "primary_rgb": [
+              241,
+              241,
+              243
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "object",
+            "raw_confidence": 0.88,
+            "raw_bbox": {
+              "x": 0,
+              "y": 549,
+              "width": 900,
+              "height": 51,
+              "x2": 900,
+              "y2": 600
+            },
+            "detected_at": "2026-10-15T15:31:32.676605+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\object_0_549.png"
+        }
+      ]
+    },
+    {
+      "id": "74685606",
+      "name": "composite_boy_girl_shapes",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\composite_boy_girl_shapes_74685606.png",
+      "width": 1100,
+      "height": 700,
+      "category": "composite",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": true,
+      "composite_metadata": {
+        "prompt": "Generate a composite containing a boy, a girl, and colored shapes",
+        "source_assets": [
+          {
+            "catalog_entry_id": "e0ceca11",
+            "catalog_image_name": "shapes",
+            "object_id": "e67ffbe5",
+            "object_label": "triangle",
+            "applied_scale": 0.719,
+            "placement_bbox": {
+              "x": 507,
+              "y": 386,
+              "width": 113,
+              "height": 120,
+              "x2": 620,
+              "y2": 506
+            },
+            "z_index": 1
+          },
+          {
+            "catalog_entry_id": "e0ceca11",
+            "catalog_image_name": "shapes",
+            "object_id": "4f1efad0",
+            "object_label": "circle",
+            "applied_scale": 0.745,
+            "placement_bbox": {
+              "x": 683,
+              "y": 386,
+              "width": 120,
+              "height": 120,
+              "x2": 803,
+              "y2": 506
+            },
+            "z_index": 1
+          },
+          {
+            "catalog_entry_id": "e0ceca11",
+            "catalog_image_name": "shapes",
+            "object_id": "00db21bd",
+            "object_label": "square",
+            "applied_scale": 0.745,
+            "placement_bbox": {
+              "x": 866,
+              "y": 386,
+              "width": 120,
+              "height": 120,
+              "x2": 986,
+              "y2": 506
+            },
+            "z_index": 1
+          },
+          {
+            "catalog_entry_id": "8c65750c",
+            "catalog_image_name": "boy",
+            "object_id": "786b254a",
+            "object_label": "boy",
+            "applied_scale": 0.679,
+            "placement_bbox": {
+              "x": 114,
+              "y": 206,
+              "width": 143,
+              "height": 340,
+              "x2": 257,
+              "y2": 546
+            },
+            "z_index": 2
+          },
+          {
+            "catalog_entry_id": "f7107930",
+            "catalog_image_name": "girl",
+            "object_id": "7a78c158",
+            "object_label": "girl",
+            "applied_scale": 0.685,
+            "placement_bbox": {
+              "x": 320,
+              "y": 206,
+              "width": 124,
+              "height": 340,
+              "x2": 444,
+              "y2": 546
+            },
+            "z_index": 2
+          }
+        ],
+        "canvas_dimensions": [
+          1100,
+          700
+        ],
+        "composition_strategy": "natural_language_spatial_alignment",
+        "generated_at": "2026-10-15T15:31:32.902196+00:00"
+      },
+      "created_at": "2026-10-15T15:31:32.904196+00:00",
+      "updated_at": "2026-10-15T15:31:32.987679+00:00",
+      "objects_count": 2,
+      "objects": [
+        {
+          "id": "0fff0a7f",
+          "label": "object",
+          "display_name": "Object",
+          "bbox": {
+            "x": 116,
+            "y": 276,
+            "width": 139,
+            "height": 122,
+            "x2": 255,
+            "y2": 398
+          },
+          "confidence": 0.88,
+          "color": {
+            "primary_name": "blue",
+            "primary_hex": "#2563eb",
+            "primary_rgb": [
+              37,
+              99,
+              235
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "object",
+            "raw_confidence": 0.88,
+            "raw_bbox": {
+              "x": 116,
+              "y": 276,
+              "width": 139,
+              "height": 122,
+              "x2": 255,
+              "y2": 398
+            },
+            "detected_at": "2026-10-15T15:31:32.966015+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\object_116_276.png"
+        },
+        {
+          "id": "73e05d94",
+          "label": "object",
+          "display_name": "Object",
+          "bbox": {
+            "x": 0,
+            "y": 640,
+            "width": 1100,
+            "height": 60,
+            "x2": 1100,
+            "y2": 700
+          },
+          "confidence": 0.88,
+          "color": {
+            "primary_name": "white",
+            "primary_hex": "#f1f1f3",
+            "primary_rgb": [
+              241,
+              241,
+              243
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "object",
+            "raw_confidence": 0.88,
+            "raw_bbox": {
+              "x": 0,
+              "y": 640,
+              "width": 1100,
+              "height": 60,
+              "x2": 1100,
+              "y2": 700
+            },
+            "detected_at": "2026-10-15T15:31:32.984878+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\object_0_640.png"
+        }
+      ]
+    },
+    {
+      "id": "92f48771",
+      "name": "my_composite_scene",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\my_composite_scene_92f48771.png",
+      "width": 950,
+      "height": 620,
+      "category": "composite",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": true,
+      "composite_metadata": {
+        "prompt": "Create an image containing one red apple and one orange",
+        "source_assets": [
+          {
+            "catalog_entry_id": "68ed528c",
+            "catalog_image_name": "apple",
+            "object_id": "2e9dd017",
+            "object_label": "apple",
+            "applied_scale": 0.431,
+            "placement_bbox": {
+              "x": 220,
+              "y": 348,
+              "width": 105,
+              "height": 135,
+              "x2": 325,
+              "y2": 483
+            },
+            "z_index": 3
+          },
+          {
+            "catalog_entry_id": "463fd640",
+            "catalog_image_name": "orange",
+            "object_id": "ee4ae5c2",
+            "object_label": "orange",
+            "applied_scale": 0.425,
+            "placement_bbox": {
+              "x": 622,
+              "y": 348,
+              "width": 107,
+              "height": 135,
+              "x2": 729,
+              "y2": 483
+            },
+            "z_index": 3
+          }
+        ],
+        "canvas_dimensions": [
+          950,
+          620
+        ],
+        "composition_strategy": "natural_language_spatial_alignment",
+        "generated_at": "2026-10-16T04:03:45.089756+00:00"
+      },
+      "created_at": "2026-10-16T04:03:45.099973+00:00",
+      "updated_at": "2026-10-16T04:03:45.253873+00:00",
+      "objects_count": 3,
+      "objects": [
+        {
+          "id": "1ed0e6e8",
+          "label": "apple",
+          "display_name": "Apple",
+          "bbox": {
+            "x": 219,
+            "y": 347,
+            "width": 107,
+            "height": 137,
+            "x2": 326,
+            "y2": 484
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "red",
+            "primary_hex": "#d21919",
+            "primary_rgb": [
+              210,
+              25,
+              25
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "apple",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 219,
+              "y": 347,
+              "width": 107,
+              "height": 137,
+              "x2": 326,
+              "y2": 484
+            },
+            "detected_at": "2026-10-16T04:03:45.212577+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\apple_219_347.png"
+        },
+        {
+          "id": "d117b457",
+          "label": "orange",
+          "display_name": "Orange",
+          "bbox": {
+            "x": 621,
+            "y": 353,
+            "width": 109,
+            "height": 131,
+            "x2": 730,
+            "y2": 484
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "orange",
+            "primary_hex": "#f97316",
+            "primary_rgb": [
+              249,
+              115,
+              22
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "orange",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 621,
+              "y": 353,
+              "width": 109,
+              "height": 131,
+              "x2": 730,
+              "y2": 484
+            },
+            "detected_at": "2026-10-16T04:03:45.230743+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\orange_621_353.png"
+        },
+        {
+          "id": "7f966011",
+          "label": "object",
+          "display_name": "Object",
+          "bbox": {
+            "x": 0,
+            "y": 567,
+            "width": 950,
+            "height": 53,
+            "x2": 950,
+            "y2": 620
+          },
+          "confidence": 0.88,
+          "color": {
+            "primary_name": "white",
+            "primary_hex": "#f1f1f3",
+            "primary_rgb": [
+              241,
+              241,
+              243
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "object",
+            "raw_confidence": 0.88,
+            "raw_bbox": {
+              "x": 0,
+              "y": 567,
+              "width": 950,
+              "height": 53,
+              "x2": 950,
+              "y2": 620
+            },
+            "detected_at": "2026-10-16T04:03:45.250240+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\object_0_567.png"
+        }
+      ]
+    },
+    {
+      "id": "367147f7",
+      "name": "my_composite_scene",
+      "image_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\images\\my_composite_scene_367147f7.png",
+      "width": 950,
+      "height": 620,
+      "category": "composite",
+      "status": "detected",
+      "has_manual_corrections": false,
+      "is_composite": true,
+      "composite_metadata": {
+        "prompt": "Create a scene with a cartoon boy and one red apple",
+        "source_assets": [
+          {
+            "catalog_entry_id": "8c65750c",
+            "catalog_image_name": "boy",
+            "object_id": "786b254a",
+            "object_label": "boy",
+            "applied_scale": 0.679,
+            "placement_bbox": {
+              "x": 595,
+              "y": 143,
+              "width": 143,
+              "height": 340,
+              "x2": 738,
+              "y2": 483
+            },
+            "z_index": 2
+          },
+          {
+            "catalog_entry_id": "68ed528c",
+            "catalog_image_name": "apple",
+            "object_id": "2e9dd017",
+            "object_label": "apple",
+            "applied_scale": 0.431,
+            "placement_bbox": {
+              "x": 211,
+              "y": 348,
+              "width": 105,
+              "height": 135,
+              "x2": 316,
+              "y2": 483
+            },
+            "z_index": 3
+          }
+        ],
+        "canvas_dimensions": [
+          950,
+          620
+        ],
+        "composition_strategy": "natural_language_spatial_alignment",
+        "generated_at": "2026-10-16T04:04:03.736078+00:00"
+      },
+      "created_at": "2026-10-16T04:04:03.745268+00:00",
+      "updated_at": "2026-10-16T04:04:03.904434+00:00",
+      "objects_count": 4,
+      "objects": [
+        {
+          "id": "402fee77",
+          "label": "object",
+          "display_name": "Object",
+          "bbox": {
+            "x": 597,
+            "y": 213,
+            "width": 139,
+            "height": 123,
+            "x2": 736,
+            "y2": 336
+          },
+          "confidence": 0.88,
+          "color": {
+            "primary_name": "blue",
+            "primary_hex": "#2563eb",
+            "primary_rgb": [
+              37,
+              99,
+              235
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "object",
+            "raw_confidence": 0.88,
+            "raw_bbox": {
+              "x": 597,
+              "y": 213,
+              "width": 139,
+              "height": 123,
+              "x2": 736,
+              "y2": 336
+            },
+            "detected_at": "2026-10-16T04:04:03.849917+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\object_597_213.png"
+        },
+        {
+          "id": "811ec45d",
+          "label": "apple",
+          "display_name": "Apple",
+          "bbox": {
+            "x": 210,
+            "y": 347,
+            "width": 107,
+            "height": 137,
+            "x2": 317,
+            "y2": 484
+          },
+          "confidence": 0.95,
+          "color": {
+            "primary_name": "red",
+            "primary_hex": "#d21919",
+            "primary_rgb": [
+              210,
+              25,
+              25
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "apple",
+            "raw_confidence": 0.95,
+            "raw_bbox": {
+              "x": 210,
+              "y": 347,
+              "width": 107,
+              "height": 137,
+              "x2": 317,
+              "y2": 484
+            },
+            "detected_at": "2026-10-16T04:04:03.867240+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\apple_210_347.png"
+        },
+        {
+          "id": "b5e728f9",
+          "label": "object",
+          "display_name": "Object",
+          "bbox": {
+            "x": 621,
+            "y": 332,
+            "width": 91,
+            "height": 153,
+            "x2": 712,
+            "y2": 485
+          },
+          "confidence": 0.88,
+          "color": {
+            "primary_name": "khaki",
+            "primary_hex": "#b49664",
+            "primary_rgb": [
+              180,
+              150,
+              100
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "object",
+            "raw_confidence": 0.88,
+            "raw_bbox": {
+              "x": 621,
+              "y": 332,
+              "width": 91,
+              "height": 153,
+              "x2": 712,
+              "y2": 485
+            },
+            "detected_at": "2026-10-16T04:04:03.881905+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\object_621_332.png"
+        },
+        {
+          "id": "bde544d0",
+          "label": "object",
+          "display_name": "Object",
+          "bbox": {
+            "x": 0,
+            "y": 567,
+            "width": 950,
+            "height": 53,
+            "x2": 950,
+            "y2": 620
+          },
+          "confidence": 0.88,
+          "color": {
+            "primary_name": "white",
+            "primary_hex": "#f1f1f3",
+            "primary_rgb": [
+              241,
+              241,
+              243
+            ],
+            "secondary_colors": [],
+            "clothing_colors": {}
+          },
+          "origin": "auto_detected",
+          "auto_metadata": {
+            "detector_name": "photographic_saliency_watershed",
+            "model_version": "v2.4",
+            "raw_label": "object",
+            "raw_confidence": 0.88,
+            "raw_bbox": {
+              "x": 0,
+              "y": 567,
+              "width": 950,
+              "height": 53,
+              "x2": 950,
+              "y2": 620
+            },
+            "detected_at": "2026-10-16T04:04:03.901412+00:00"
+          },
+          "user_metadata": {
+            "is_modified": false,
+            "modified_by": null,
+            "modified_at": null,
+            "notes": null,
+            "original_values_backup": null
+          },
+          "cutout_mask_path": "C:\\Users\\Shlok\\OneDrive\\Desktop\\16th sep\\catalog_storage\\cutouts\\object_0_567.png"
+        }
+      ]
+    }
+  ]
+}
